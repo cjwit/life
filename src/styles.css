@@ -1,0 +1,39 @@
+body {
+  margin-bottom: 20px;
+  text-align: center; }
+
+input, textarea, select {
+  margin-bottom: 15px; }
+
+h1 {
+  text-align: center;
+  margin: auto;
+  display: block;
+  padding: 20px; }
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  margin-bottom: 20px; }
+
+td {
+  border: 0px solid #4f456e;
+  height: 10px;
+  width: 10px; }
+
+.alive {
+  background: #352d52; }
+
+.dead {
+  background: #8c86a2; }
+
+.btn-toolbar {
+  display: inline-block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+#rules {
+  text-align: left; }
+
+/*# sourceMappingURL=styles.css.map */
